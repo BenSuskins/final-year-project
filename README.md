@@ -9,6 +9,8 @@ The system is developed in Java 8 with Spring Boot backed by a PostgreSQL databa
 
 A deployed version of the system can be found [Here](www.hatespeech.suskins.co.uk).
 
+The developed classifier was able to achieve an F1 Score of 92% on the testing dataset.
+
 ## Getting Started 
 
 ### Prerequisites
