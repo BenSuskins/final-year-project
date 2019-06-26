@@ -56,7 +56,9 @@ My Minimum Viable Product is tagged as 1.0.0
 
 2.0.0 Reworked API | Control Interface | Retrained Hate Speech Model. - 23/01/2019.
 
-2.1.0 Refactor to Hate Speech from Human Rights | Confidence Measure | Improved Control Interface | Improved Classifier. - 10/4/2019
+2.1.0 Refactor to Hate Speech from Human Rights | Confidence Measure | Improved Control Interface | Improved Classifier. - 10/04/2019
+
+3.0.0 Refactored Whole Project to deploy using Docker-Compose. - 26/06/2019
 
 ## Authors
 * Ben Suskins 

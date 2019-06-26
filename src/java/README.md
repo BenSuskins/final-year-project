@@ -1,4 +1,4 @@
-# Extracting Knowledge About Hate Speech from Social Media - Java
+# Extracting Knowledge About the Usage of Hate Speech from Social Media- Java
 This directory contains the Java source code for the project.
 
 #### Starting Java Service
