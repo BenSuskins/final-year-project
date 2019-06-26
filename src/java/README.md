@@ -1,7 +1,24 @@
 # Extracting Knowledge About the Usage of Hate Speech from Social Media- Java
 This directory contains the Java source code for the project.
 
-#### Starting Java Service
+### Training the Classifier
+The serialised classifier is not provided in this repo due to its size (~1GB).
+
+To train and serialise the classifier run the following Java file:
+
+```bash
+src\java\suskins-hrvsm-service-nlp\src\main\java\uk\co\suskins\hrvsm\service\nlp\training\TrainHateSpeechClassifier.java
+```
+
+This process will likely take >12 hours due to the size of the training dataset.
+
+The serialised classifer will be saved to:
+
+```bash
+src\java\suskins-hrvsm-service-nlp\src\main\resources\hateSpeech\hateSpeechClassifier.dat
+```
+
+### Starting Java Service
 Running the following commands will build the project Jar and then run it.
 
 ```bash
