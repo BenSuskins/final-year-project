@@ -34,7 +34,7 @@ docker run -p 80 hatespeech-java
 ```
 
 
-[Local API Documentation](http://localhost:8080/swagger-ui.html#/)
+[Local API Documentation](http://localhost:80/swagger-ui.html#/)
 
 ### Running Tests
 Running the following command in the project root will run all of the Groovy Spock tests.
