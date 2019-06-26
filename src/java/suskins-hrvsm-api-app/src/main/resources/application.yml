@@ -1,0 +1,12 @@
+logging:
+  config:
+spring:
+  datasource:
+    platform: postgres
+    url: jdbc:postgresql://postgres:5432/dev_db
+    username: postgres
+    password: postgres
+  application:
+    name: Extracting Knowledge about Hate Speech from Social Media
+server:
+  port: 80
