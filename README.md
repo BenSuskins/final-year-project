@@ -5,9 +5,9 @@ University of Essex BSc Computer Science Final Year Project.
 
 This project uses Social Media sites such as Twitter to extract knowledge about the usage of Hate Speech online.
 
-The system is developed in Java using the Spring framework, running on Amazon Web Services and backed by a PostgreSQL database feeding data into Grafana for monitoring and visualisation.  
+The system is developed in Java 8 with Spring Boot backed by a PostgreSQL database feeding data into Grafana for monitoring and visualisation.  
 
-The full system is available online at [Here](www.hatespeech.suskins.co.uk).
+A deployed version of the system can be found [Here](www.hatespeech.suskins.co.uk).
 
 ## Getting Started 
 
@@ -23,7 +23,6 @@ The application runs in Docker.
 
 The provided Docker Compose file will setup the PostgreSQL database, the Java Back End and the Grafana Front End.
 
-
 ```
 cd src/java/
 mvn package
@@ -31,6 +30,8 @@ cd ..
 cd ..
 docker-compose up
 ```
+
+[Local Application](localhost:80)
 
 ### Versioning Strategy
 Using Semantic Versioning:
