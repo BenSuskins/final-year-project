@@ -30,7 +30,7 @@ The application runs in Docker.
 
 The provided Docker Compose file will setup the PostgreSQL database, the Java Back End and the Grafana Front End.
 
-```
+```bash
 cd src/java/
 mvn package
 cd ..

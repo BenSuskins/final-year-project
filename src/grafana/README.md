@@ -4,7 +4,7 @@ This directory contains the files related to the provisioning of Grafana for the
 #### Starting Grafana Front End
 Running the following commands will build the Docker Image and then run it.
 
-```
+```bash
 docker build -t hssmgrafana .
 docker run hssmgrafana -p 3000
 ```
