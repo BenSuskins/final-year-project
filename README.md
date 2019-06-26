@@ -31,7 +31,7 @@ cd ..
 docker-compose up
 ```
 
-[Local Application](localhost:80)
+[Local Application](http://localhost:80)
 
 ### Versioning Strategy
 Using Semantic Versioning:
