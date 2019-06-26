@@ -11,6 +11,11 @@ A deployed version of the system can be found [Here](www.hatespeech.suskins.co.u
 
 The developed classifier was able to achieve an F1 Score of 92% on the testing dataset.
 
+### Screenshot
+#### Grafana
+
+![alt text](/docs/grafana.png?raw=true "Project Homepage")
+
 ## Getting Started 
 
 ### Prerequisites
