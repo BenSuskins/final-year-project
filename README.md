@@ -14,7 +14,7 @@ The developed classifier was able to achieve an F1 Score of 92% on the testing d
 ### Screenshot
 #### Grafana
 
-![alt text](/docs/grafana.png?raw=true "Project Homepage")
+![alt text](/docs/grafana.png?raw=true "Grafana")
 
 ## Getting Started 
 
