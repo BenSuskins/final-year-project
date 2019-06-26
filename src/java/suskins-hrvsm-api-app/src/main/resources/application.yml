@@ -7,6 +7,6 @@ spring:
     username: postgres
     password: postgres
   application:
-    name: Extracting Knowledge about Hate Speech from Social Media
+    name: Extracting Knowledge About the Usage of Hate Speech from Social Media
 server:
   port: 80

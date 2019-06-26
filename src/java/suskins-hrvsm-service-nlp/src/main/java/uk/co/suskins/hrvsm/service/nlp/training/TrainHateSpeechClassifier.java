@@ -35,7 +35,7 @@ import java.io.ObjectOutputStream;
 class TrainHateSpeechClassifier {
     //Path for dataset
     private static final String FILE_DIR =
-            "M:\\bensu\\Documents\\Git\\Extracting-Knowledge-about-Hate-Speech-from-Social-Media\\suskins-hrvsm-service-nlp\\src\\main\\resources\\hateSpeech\\";
+            "M:\\bensu\\Documents\\Git\\final-year-project\\src\\java\\suskins-hrvsm-service-nlp\\src\\main\\resources\\hateSpeech\\";
 
     public static void main(String[] args) throws Exception {
         //ColumnDataClassifier
