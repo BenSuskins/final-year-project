@@ -26,6 +26,14 @@ mvn clean install
 java -jar suskins-hrvsm-api-app/target/suskins-hrvsm-api-app-develop-SNAPSHOT.jar
 ```
 
+OR
+
+```bash
+docker build -t hatespeech-java .
+docker run -p 80 hatespeech-java 
+```
+
+
 [Local API Documentation](http://localhost:8080/swagger-ui.html#/)
 
 ### Running Tests
