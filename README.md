@@ -1,4 +1,4 @@
-# Extracting Knowledge About the Usage of Hate Speech from Social Media.
+# Extracting Knowledge About the Usage of Hate Speech from Social Media
 [![Build Status](https://travis-ci.org/BenSuskins/final-year-project.svg?branch=master)](https://travis-ci.org/BenSuskins/final-year-project)
 
 University of Essex BSc Computer Science Final Year Project.
