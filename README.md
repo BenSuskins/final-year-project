@@ -16,6 +16,10 @@ The developed classifier was able to achieve an F1 Score of 92% on the testing d
 
 ![alt text](/docs/grafana.png?raw=true "Grafana")
 
+#### Final System Architecture
+
+![alt text](/docs/architecture.png?raw=true "Final System Architecture")
+
 ## Getting Started 
 
 ### Prerequisites
