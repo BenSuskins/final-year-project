@@ -7,7 +7,7 @@ This project uses Social Media sites such as Twitter to extract knowledge about 
 
 The system is developed in Java 8 with Spring Boot backed by a PostgreSQL database feeding data into Grafana for monitoring and visualisation.  
 
-A deployed version of the system can be found [Here](www.hatespeech.suskins.co.uk).
+~~A deployed version of the system can be found [Here](www.hatespeech.suskins.co.uk).~~
 
 The developed classifier was able to achieve an F1 Score of 92% on the testing dataset.
 
